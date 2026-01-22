@@ -5,7 +5,7 @@ A logic-based terminal game where players attempt to uncover a hidden number.
 
 **Name:** Jonathan Akinola Oyerinsola
 **Matric No.:** 24/14642
-**Course.:** Computer Science
+**Course.:** Software Engineering
 
 
 ### Phase 1: Concept & Requirements
