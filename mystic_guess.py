@@ -1,4 +1,4 @@
-# Jonathan Akinola Oyerinsola
+# Akinola Jonathan Oyerinsola
 # 24/14642
 # Software Engineering
 import random
