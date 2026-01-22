@@ -3,7 +3,7 @@ A logic-based terminal game where players attempt to uncover a hidden number.
 
 ## 🎮 Game Design Document (SDLC Report)
 
-**Name:** Jonathan Akinola Oyerinsola
+**Name:** Akinola Jonathan Oyerinsola
 **Matric No.:** 24/14642
 **Course.:** Software Engineering
 
